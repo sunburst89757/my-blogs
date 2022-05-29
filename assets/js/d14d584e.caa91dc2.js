@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[63],{6347:function(e){e.exports=JSON.parse('[{"label":"Vue3","permalink":"/my-blogs/blog/tags/vue-3","count":2},{"label":"TypeScript","permalink":"/my-blogs/blog/tags/type-script","count":2}]')}}]);

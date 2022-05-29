@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Sunshine112的博客 Blog</title>
-        <link>https://your-docusaurus-test-site.com/blog</link>
+        <link>https://your-docusaurus-test-site.com/my-blogs/blog</link>
         <description>Sunshine112的博客 Blog</description>
         <lastBuildDate>Sun, 29 May 2022 09:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>zh-Hans</language>
         <item>
             <title><![CDATA[Vue登录权限设计]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/vue-login-design</link>
+            <link>https://your-docusaurus-test-site.com/my-blogs/blog/vue-login-design</link>
             <guid>/vue-login-design</guid>
             <pubDate>Sun, 29 May 2022 09:17:56 GMT</pubDate>
             <description><![CDATA[Vue Admin权限路由设计]]></description>
@@ -20,7 +20,7 @@
         </item>
         <item>
             <title><![CDATA[Vue设计tabs和菜单联动]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/vue-tabs-design</link>
+            <link>https://your-docusaurus-test-site.com/my-blogs/blog/vue-tabs-design</link>
             <guid>/vue-tabs-design</guid>
             <pubDate>Sun, 29 May 2022 09:17:56 GMT</pubDate>
             <description><![CDATA[如何设计Vue admin中的tabs]]></description>
