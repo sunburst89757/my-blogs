@@ -9,7 +9,7 @@ const config = {
   title: "Sunshine112的博客",
   tagline: "前端技术博客",
   url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  baseUrl: "/my-blogs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
