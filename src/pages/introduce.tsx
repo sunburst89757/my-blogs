@@ -1,7 +1,7 @@
 import React from "react";
 import Layout from "@theme/Layout";
-
-export default function Hello() {
+// 个人介绍页面
+export default function Introduce() {
   return (
     <Layout title="Hello" description="Hello React Page">
       <div
