@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Sunshine112的博客",
   tagline: "前端技术博客",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://sunburst89757.github.io",
   baseUrl: "/my-blogs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
