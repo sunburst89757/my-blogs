@@ -7,8 +7,6 @@ tags: [Vue3, TypeScript]
 
 <!--truncate-->
 
-# tab 栏的引入
-
 ## 总的原则
 
 监听路由的变化实现 menu 与 tabs 的双向绑定。
