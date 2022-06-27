@@ -2,7 +2,7 @@
 title: "react-ts-admin路由权限设计方案"
 description: "react后台管理系统路由权限实现方案"
 authors: tyz
-tags: []
+tags: [react]
 ---
 
 <!--truncate-->
@@ -90,7 +90,7 @@ const RouterBeforeEach = ({ children, role, title }: interceptOBj) => {
 };
 ```
 
-### 三、tabs 的设计
+## 三、tabs 的设计
 
 1. tab 的设计探索见[vue 设计 tabs 和菜单联动](https://sunburst89757.github.io/my-blogs/blog/vue-login-design)
 
