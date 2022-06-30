@@ -3,6 +3,7 @@ title: "Vue设计tabs和菜单联动"
 description: "如何设计Vue admin中的tabs"
 authors: tyz
 tags: [Vue3, TypeScript]
+date: 2022-05-29
 ---
 
 <!--truncate-->

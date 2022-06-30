@@ -3,6 +3,7 @@ title: "二分查找"
 description: "数组二分查找的原理及使用实例"
 authors: tyz
 tags: [algorithm, array]
+date: 2022-06-27
 ---
 
 <!--truncate-->

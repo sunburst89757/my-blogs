@@ -3,6 +3,7 @@ title: "react-ts-admin路由权限设计方案"
 description: "react后台管理系统路由权限实现方案"
 authors: tyz
 tags: [react]
+date: 2022-06-06
 ---
 
 <!--truncate-->
