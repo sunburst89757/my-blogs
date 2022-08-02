@@ -2,7 +2,7 @@
 title: "前端debug"
 description: "便于SEO搜索优化"
 authors: tyz
-tags: []
+tags: ["debug", "字节青训营"]
 date: 2022-08-01
 ---
 
