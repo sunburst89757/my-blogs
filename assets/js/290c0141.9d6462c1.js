@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6705],{8174:function(e){e.exports=JSON.parse('{"permalink":"/my-blogs/blog/tags/java-script\u9ad8\u7ea7\u7a0b\u5e8f\u8bbe\u8ba1\u8bfb\u4e66\u7b14\u8bb0","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

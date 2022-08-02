@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4584],{6738:function(e){e.exports=JSON.parse('{"label":"react-router6","permalink":"/my-blogs/blog/tags/react-router-6","allTagsPath":"/my-blogs/blog/tags","count":1}')}}]);
