@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4834],{922:function(s){s.exports=JSON.parse('{"label":"axios","permalink":"/my-blogs/blog/tags/axios","allTagsPath":"/my-blogs/blog/tags","count":1}')}}]);
